@@ -1,0 +1,26 @@
+{
+  "name": "easyceiljoin",
+  "email": "dxqweber@gmail.com",
+  "version": "0.1.0",
+  "description": "Make it easier for developers to merge forms base on elementui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jsweber/easyceiljoin.git"
+  },
+  "keywords": [
+    "javascript",
+    "elementui",
+    "merge",
+    "table"
+  ],
+  "author": "jsweber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsweber/easyceiljoin/issues"
+  },
+  "homepage": "https://github.com/jsweber/easyceiljoin#readme"
+}

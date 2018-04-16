@@ -1,6 +1,10 @@
 {
   "name": "easyceiljoin",
-  "email": "dxqweber@gmail.com",
+  "author": {
+    "name": "jsweber",
+    "email": "dxqweber@gmail.com",
+    "url": "http://tradeww.com"
+  },
   "version": "0.1.0",
   "description": "Make it easier for developers to merge forms base on elementui",
   "main": "index.js",
@@ -14,13 +18,16 @@
   "keywords": [
     "javascript",
     "elementui",
+    "plugin",
     "merge",
     "table"
   ],
-  "author": "jsweber",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jsweber/easyceiljoin/issues"
   },
-  "homepage": "https://github.com/jsweber/easyceiljoin#readme"
+  "homepage": "https://github.com/jsweber/easyceiljoin#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
 }
